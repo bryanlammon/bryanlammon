@@ -3,10 +3,9 @@
 ### Hi there 👋
 
 - I'm a law professor at the [University of Toledo College of Law](https://www.utoledo.edu/law/faculty/fulltime/lammon.html).
-- My [scholarship](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=883907) studies federal appellate jurisdiction: if, when, who, what, and how litigants can appeal in federal court.
+- My [scholarship](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=883907) studies federal appellate jurisdiction: if, when, which, what, and how litigants can appeal in federal court.
 - I'm currently working on [Supra](https://github.com/bryanlammon/supra), a Pandoc wrapper for writing legal scholarship in Markdown.
 - I also blog about appellate jurisdiction and procedure at [Final Decisions](https://finaldecisions.org).
-- You can reach me on Twitter ([@BryanLammon](https://twitter.com/BryanLammon)) and Mastodon ([@BryanLammon@mastodon.social](https://mastodon.social/@BryanLammon)).
 
 <!--
 **bryanlammon/bryanlammon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
